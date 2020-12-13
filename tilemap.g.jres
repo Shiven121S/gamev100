@@ -1,0 +1,17 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile4": {
+        "data": "hwQQABAAAADMzPzLzMz/y8zMv7/M/Mu/v/zL/Mv8y/z8v8zM///LzPzLzMy//MvM/MvMzL/8v8z8y8z8y8y/zPy/zP+/zL/Mv/z7v/zL/8vMzL/M/P/7/8zMv8zMv8zMzP+/zMy/zMz/y7/MzL/8/8zM/Mv8/L/MzMz8/7/8y8zMzPzLzMy/zA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
